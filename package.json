@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "mailgun.js": "^7.0.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.18"
+  },
+  "name": "Votr",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server/serverV.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/nodemon/bin/nodemon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShengjenChiu/Votr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShengjenChiu/Votr/issues"
+  },
+  "homepage": "https://github.com/ShengjenChiu/Votr#readme"
+}
